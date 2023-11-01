@@ -8,6 +8,8 @@
 ###  系級:科技系2年級
 ###  *課程筆記區 
 ###  *作業連結區
-###  [作業一](https://github.com/nick399100/PL/blob/main/Homework1/HW1.ipynb)  [作業二](https://github.com/nick399100/PL/blob/main/Homework2/HW2.ipynb)
+###  [作業一](https://github.com/nick399100/PL/blob/main/Homework1/HW1.ipynb)  
+###  [作業二](https://github.com/nick399100/PL/blob/main/Homework2/HW2.ipynb)
+###  [作業三](https://github.com/nick399100/PL/tree/main/Homework3)
 ###  *專題連結區
 
