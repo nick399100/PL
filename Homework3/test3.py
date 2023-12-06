@@ -2,11 +2,18 @@ import requests
 import json
 import urllib.parse
 import csv
+import time
 from bs4 import BeautifulSoup
+
+def sleeptime(hour,min,sec):
+    return hour*3600 + min*60 + sec;
+
+tStart = time.time()#計時開始
 
 user_input=input("請輸入想搜尋的關鍵字: ")
 #將使用者輸入的關鍵字轉換為URL格式
 search = urllib.parse.quote(user_input)+"&"
+
 # 指定要爬取的URL
 url="https://cse.google.com/cse/element/v1?rsz=filtered_cse&num=10&hl=zh-TW&source=gcsc&gss=.tw&cselibv=e992cd4de3c7044f&cx=011856925919198164995:zrqfhvriqea&q="+search+"safe=off&cse_tok=AB-tC_5fN50TfjOdI9nUOi5GPLCY:1698867247369&sort=&as_sitesearch=&exp=csqr,cc&callback=google.search.cse.api15199"
 # 發起HTTP GET請求
@@ -62,9 +69,12 @@ with open('output.csv', 'w', newline='') as csv_file:
         title = item['title']
         url = item['url']
         writer.writerow([title, url])
+    
     # 使用Beautiful Soup解析HTML標記並去除他們
     #soup = BeautifulSoup(title_with_tags, 'html.parser')
     #cleaned_title = soup.get_text()
 
     #writer.writerow([cleaned_title, url])
+tEnd = time.time()#計時結束
 print('CSV文件已創建並數據已寫入。')
+print ("It cost %f sec" % (tEnd - tStart))#會自動做進位

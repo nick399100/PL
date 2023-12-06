@@ -1,10 +1,10 @@
 {
     "cursor": {
         "currentPageIndex": 0,
-        "estimatedResultCount": "292",
-        "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=%E4%BC%81%E7%AE%A1&safe=off&sort=&as_sitesearch=&cx=011856925919198164995:zrqfhvriqea&start=0",
-        "resultCount": "292",
-        "searchResultTime": "0.14",
+        "estimatedResultCount": "414",
+        "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=%E5%A4%A9%E6%B0%A3&safe=off&sort=&as_sitesearch=&cx=011856925919198164995:zrqfhvriqea&start=0",
+        "resultCount": "414",
+        "searchResultTime": "0.12",
         "pages": [
             {
                 "label": 1,
@@ -54,53 +54,54 @@
     },
     "results": [
         {
-            "cacheUrl": "http://www.google.com/search?q=cache:o-2sQQLpZIIJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/3757&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAAQAg&usg=AOvVaw0CZxJzDWII_kqRf0Ds3VBE",
-            "content": "2005年9月15日 <b>...</b> MBA<b>企管</b>碩士IMD-International Institute for Management Development 瑞士洛桑管理學院75,",
-            "contentNoFormatting": "2005年9月15日 ... MBA企管碩士IMD-International Institute for Management Development 瑞士洛桑管理學院75,",
-            "title": "科技人進修指南×100 新MBA｜Meet創業小聚",
-            "titleNoFormatting": "科技人進修指南×100 新MBA｜Meet創業小聚",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/3757",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/3757",
-            "url": "https://meet.bnext.com.tw/articles/view/3757",
+            "cacheUrl": "http://www.google.com/search?q=cache:ntlOeM9pfSAJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/47616&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAcQAg&usg=AOvVaw1dM65HVL7qpTYUsQXMaN3d",
+            "content": "2021年4月16日 <b>...</b> 如何能大量擴充觀測器的數量，而又不必耗費龐大的建置經費，Elkabetz三人便想到了用行動網路來監測<b>天氣</b>模式的這項技術。利用全球數以億計的手機、筆記型&nbsp;...",
+            "contentNoFormatting": "2021年4月16日 ... 如何能大量擴充觀測器的數量，而又不必耗費龐大的建置經費，Elkabetz三人便想到了用行動網路來監測天氣模式的這項技術。利用全球數以億計的手機、筆記型 ...",
+            "title": "大數據預測<b>天氣</b>！這三位以色列人從瀕死經驗創立Tomorrow.io，讓 ...",
+            "titleNoFormatting": "大數據預測天氣！這三位以色列人從瀕死經驗創立Tomorrow.io，讓 ...",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/47616",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/47616",
+            "url": "https://meet.bnext.com.tw/articles/view/47616",
             "visibleUrl": "meet.bnext.com.tw",
             "richSnippet": {
                 "cseImage": {
-                    "src": "http://4.bp.blogspot.com/-f759s9oUfTI/U7d1Bn_2bPI/AAAAAAAACRU/uxagCqrPfAM/s1024/shutterstock_149928686.jpg"
+                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2021-04/img-1617963981-21674.jpg?w=900&output=webp"
                 },
                 "metatags": {
-                    "myViewId": "3757",
+                    "myViewId": "47616",
                     "myPageType": "view",
-                    "ogTitle": "科技人進修指南×100　新MBA｜Meet創業小聚",
+                    "ogTitle": "大數據預測天氣！這三位以色列人從瀕死經驗創立Tomorrow.io，讓大家及早準備氣候變化｜Meet創業小聚",
                     "myIsLogin": "0",
                     "ogType": "website",
                     "myHid": "0",
-                    "myPublishDate": "2005-09-15T12:00:00+08:00",
-                    "myAuthor": "['數位時代']",
+                    "myPublishDate": "2021-04-16T16:32:00+08:00",
+                    "myAuthor": "['《創新拿鐵》Heyden']",
                     "formatDetection": "telephone=no",
                     "appleMobileWebAppTitle": "Meet創業小聚",
                     "appleItunesApp": "app-id=1498785087",
                     "myIsAds": "0",
                     "myPageFormat": "article",
-                    "articlePublishedTime": "2005-09-15T12:00:00+08:00",
+                    "articlePublishedTime": "2021-04-16T16:32:00+08:00",
                     "myMemberOnly": "0",
-                    "dableAuthor": "數位時代",
-                    "ogDescription": "MBA企管碩士 IMD-International Institute for Management Development 瑞士洛桑管理學院 75,",
-                    "ogImage": "http://4.bp.blogspot.com/-f759s9oUfTI/U7d1Bn_2bPI/AAAAAAAACRU/uxagCqrPfAM/s1024/shutterstock_149928686.jpg",
+                    "dableAuthor": "《創新拿鐵》Heyden",
+                    "ogDescription": "台灣正大旱臨頭，不知何時才會降下甘霖，天氣預報誰也說不準，但美國新創用人工智慧及大數據，能預測到以分鐘為級距，以街道為劃分，或許能給我們準確答案！",
+                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/album/2021-04/img-1617963981-21674.jpg?w=900&output=webp",
                     "ogLocale": "zh_TW",
+                    "myCategory": "數位工具,大數據,創業經驗",
                     "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "23Mit45gJTEZOeui4sbEeGdh2Ak3qXKdl71zrDaT",
+                    "csrfToken": "QJ7BrTPZwPbyFLXKeRxoSg8WenMUCuIXiQDbwsCG",
                     "myMemberHid": "0",
                     "viewport": "width=device-width,initial-scale=1",
-                    "dableItemId": "3757",
-                    "ogUrl": "https://meet.bnext.com.tw/articles/view/3757",
-                    "myUid": "3757",
+                    "dableItemId": "47616",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/47616",
+                    "myUid": "47616",
                     "appleMobileWebAppStatusBarStyle": "black-translucent",
                     "appleMobileWebAppCapable": "yes",
                     "articleAuthor": "https://www.facebook.com/MeetStartup"
                 },
                 "cseThumbnail": {
-                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCjmefEGL_2lTnkxHsKCmfPUqOfQLhGTSplyoiOLBYXzVPHIESeSvm2i4e",
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrmtIAZ7CHXJBG8kMj-pjwzKZLUDJIVm-1vCdmWALHXL0F1Ung5aB4o6Dj",
                     "width": "275",
                     "height": "183"
                 }
@@ -114,415 +115,54 @@
             }
         },
         {
-            "cacheUrl": "http://www.google.com/search?q=cache:hd1U7MAxxJkJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/21155&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAEQAg&usg=AOvVaw21g_O2jFo9vLT3sqFcxKm2",
-            "content": "2011年12月6日 <b>...</b> <b>企管</b>碩士學位、資訊科技與電子商務主修（MBA Concentration in Information Technology and Electronic Commerce）. 此學程提供的跨領域訓練包含數據&nbsp;...",
-            "contentNoFormatting": "2011年12月6日 ... 企管碩士學位、資訊科技與電子商務主修（MBA Concentration in Information Technology and Electronic Commerce）. 此學程提供的跨領域訓練包含數據 ...",
-            "title": "15所英美加名校，讓你取得電子商務學位（下）｜Meet創業小聚",
-            "titleNoFormatting": "15所英美加名校，讓你取得電子商務學位（下）｜Meet創業小聚",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/21155",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/21155",
-            "url": "https://meet.bnext.com.tw/articles/view/21155",
+            "cacheUrl": "http://www.google.com/search?q=cache:0ZeXYGca8gkJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/38602&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAkQAg&usg=AOvVaw3DnrLKrANiOr4nwCBSa5xz",
+            "content": "2016年9月27日 <b>...</b> 擁有40萬粉絲的「<b>天氣</b>即時預報」，下雨前30分鐘總會貼心提醒大家記得帶傘，颱風逼近時還會有精美圖表講解路徑。背後創辦人黃昱維靠自學鑽研氣象，&nbsp;...",
+            "contentNoFormatting": "2016年9月27日 ... 擁有40萬粉絲的「天氣即時預報」，下雨前30分鐘總會貼心提醒大家記得帶傘，颱風逼近時還會有精美圖表講解路徑。背後創辦人黃昱維靠自學鑽研氣象， ...",
+            "title": "45 萬粉絲效應：「<b>天氣</b>即時預報」創辦人黃昱維自學氣象觀測變專家 ...",
+            "titleNoFormatting": "45 萬粉絲效應：「天氣即時預報」創辦人黃昱維自學氣象觀測變專家 ...",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/38602",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/38602",
+            "url": "https://meet.bnext.com.tw/articles/view/38602",
             "visibleUrl": "meet.bnext.com.tw",
             "richSnippet": {
                 "cseImage": {
-                    "src": "http://4.bp.blogspot.com/-Ov-7foO357Y/U7aZ_Ibu-OI/AAAAAAAACH0/TvlPecs7-1E/s1024/shutterstock_148678592.jpg"
+                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/bn/2016-09/img-1474958012-77919.jpg?w=900&output=webp"
                 },
                 "metatags": {
-                    "myViewId": "21155",
+                    "myViewId": "38602",
                     "myPageType": "view",
-                    "ogTitle": "15所英美加名校，讓你取得電子商務學位（下）｜Meet創業小聚",
+                    "ogTitle": "45 萬粉絲效應：「天氣即時預報」創辦人黃昱維自學氣象觀測變專家｜Meet創業小聚",
                     "myIsLogin": "0",
                     "ogType": "website",
                     "myHid": "0",
-                    "myPublishDate": "2011-12-06T11:59:00+08:00",
-                    "myAuthor": "['羅以琳編譯']",
+                    "myPublishDate": "2016-09-27T15:20:00+08:00",
+                    "myAuthor": "['張庭瑜']",
                     "formatDetection": "telephone=no",
                     "appleMobileWebAppTitle": "Meet創業小聚",
                     "appleItunesApp": "app-id=1498785087",
                     "myIsAds": "0",
                     "myPageFormat": "article",
-                    "articlePublishedTime": "2011-12-06T11:59:00+08:00",
+                    "articlePublishedTime": "2016-09-27T15:20:00+08:00",
                     "myMemberOnly": "0",
-                    "dableAuthor": "羅以琳編譯",
-                    "ogDescription": "**美國（續）：**\r\n\r\n[丹佛大學（University of Denver）](http://www.daniels.du.edu/school",
-                    "ogImage": "http://4.bp.blogspot.com/-Ov-7foO357Y/U7aZ_Ibu-OI/AAAAAAAACH0/TvlPecs7-1E/s1024/shutterstock_148678592.jpg",
+                    "dableAuthor": "張庭瑜",
+                    "ogDescription": "擁有40萬粉絲的「天氣即時預報」，下雨前30分鐘總會貼心提醒大家記得帶傘，颱風逼近時還會有精美圖表講解路徑。背後創辦人黃昱維靠自學鑽研氣象，而這一切的原點聽起來有些浪漫──愛上下雨天。",
+                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/bn/2016-09/img-1474958012-77919.jpg?w=900&output=webp",
                     "ogLocale": "zh_TW",
+                    "myCategory": "數位工具",
                     "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "sXt19NCfQJHiQ0GWQK1eyDkgt2pGGFenRv3ItKqX",
+                    "csrfToken": "7jt2KM8P57NusZqPycYH3QKpuLtZgSuOBrCj3f57",
                     "myMemberHid": "0",
                     "viewport": "width=device-width,initial-scale=1",
-                    "dableItemId": "21155",
-                    "ogUrl": "https://meet.bnext.com.tw/articles/view/21155",
-                    "myUid": "21155",
+                    "dableItemId": "38602",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/38602",
+                    "myUid": "38602",
                     "appleMobileWebAppStatusBarStyle": "black-translucent",
                     "appleMobileWebAppCapable": "yes",
                     "articleAuthor": "https://www.facebook.com/MeetStartup"
                 },
                 "cseThumbnail": {
-                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-jI2Ra4ati65GzJn_-9Ru2m8gLDDcTectgrin4buB8TyfPFOSwKVwYmFI",
-                    "width": "275",
-                    "height": "183"
-                }
-            },
-            "breadcrumbUrl": {
-                "host": "meet.bnext.com.tw",
-                "crumbs": [
-                    "articles",
-                    "view"
-                ]
-            }
-        },
-        {
-            "cacheUrl": "http://www.google.com/search?q=cache:Opo7KkmYJLwJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/49333&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAMQAg&usg=AOvVaw2Qu0iPq58fdC7Zuk5DozxV",
-            "content": "2023年7月25日 <b>...</b> 消費者願意為產品支付的費用。調整價格對於市場策略有重要的影響，企業會從不同的市場定位，以及企業本身的品牌策略，制定不同的價格策略。",
-            "contentNoFormatting": "2023年7月25日 ... 消費者願意為產品支付的費用。調整價格對於市場策略有重要的影響，企業會從不同的市場定位，以及企業本身的品牌策略，制定不同的價格策略。",
-            "title": "行銷4P、新4P是什麼？4C又是什麼？用UNIQLO的例子帶你一次搞懂 ...",
-            "titleNoFormatting": "行銷4P、新4P是什麼？4C又是什麼？用UNIQLO的例子帶你一次搞懂 ...",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/49333",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/49333",
-            "url": "https://meet.bnext.com.tw/articles/view/49333",
-            "visibleUrl": "meet.bnext.com.tw",
-            "richSnippet": {
-                "cseImage": {
-                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2018-05/img-1527155077-41808.jpg?w=900&output=webp"
-                },
-                "metatags": {
-                    "myViewId": "67544",
-                    "myPageType": "view",
-                    "ogTitle": "行銷4P、新4P是什麼？4C又是什麼？用UNIQLO的例子帶你一次搞懂|經理人",
-                    "myIsLogin": "0",
-                    "ogType": "website",
-                    "myPublishDate": "2023-07-25T10:00:00+08:00",
-                    "myAuthor": "許永昕",
-                    "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "經理人",
-                    "appleItunesApp": "app-id=1591157883",
-                    "myPageSerial": "2",
-                    "myIsAds": "1",
-                    "myPageFormat": "article",
-                    "fbPages": "198019486347",
-                    "articlePublishedTime": "2023-07-25T10:00:00+08:00",
-                    "myMemberOnly": "0",
-                    "ogDescription": "行銷4P是什麼？和新4P的差別在哪裡？行銷4C又是什麼？用UNIQLO的例子帶你一次了解行銷4P的應用！",
-                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/album/2018-05/img-1527155077-41808.jpg?w=900&output=webp",
-                    "ogLocale": "zh_TW",
-                    "myCategory": "數位轉型",
-                    "articlePublisher": "https://www.facebook.com/managertoday",
-                    "csrfToken": "l5h8xtSvKqnwDD7pEEcjOryoynh6IDTKtzmiBxUB",
-                    "myMemberHid": "0",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "myTags": "行銷,思考術",
-                    "ogUrl": "https://www.managertoday.com.tw/articles/view/64145",
-                    "appleMobileWebAppStatusBarStyle": "black-translucent",
-                    "appleMobileWebAppCapable": "yes",
-                    "fbAppId": "1036773739746188",
-                    "articleAuthor": "https://www.facebook.com/managertoday"
-                },
-                "cseThumbnail": {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdhIsNZQDd4uGin2iT4SYkxdMEHJ8hsK5UQr0JDfvjxyKQ2wwDqUseJcS",
-                    "width": "275",
-                    "height": "183"
-                }
-            },
-            "breadcrumbUrl": {
-                "host": "meet.bnext.com.tw",
-                "crumbs": [
-                    "articles",
-                    "view"
-                ]
-            }
-        },
-        {
-            "cacheUrl": "http://www.google.com/search?q=cache:apyZLa8F2zEJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/41334&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAgQAg&usg=AOvVaw2G4AwIdpZiZmw6wo3emUi4",
-            "content": "2017年8月8日 <b>...</b> 曾被《經濟學人》譽為「有史以來最成功的<b>企管</b>小說」，作者高德拉特（Eliyahu M. Goldratt）身兼物理學與<b>企管</b>學家兩種身分，該書用小說體裁的寫法&nbsp;...",
-            "contentNoFormatting": "2017年8月8日 ... 曾被《經濟學人》譽為「有史以來最成功的企管小說」，作者高德拉特（Eliyahu M. Goldratt）身兼物理學與企管學家兩種身分，該書用小說體裁的寫法 ...",
-            "title": "揭開亞馬遜內部流傳的管理書單！這10 本好書，貝佐斯超推薦｜Meet ...",
-            "titleNoFormatting": "揭開亞馬遜內部流傳的管理書單！這10 本好書，貝佐斯超推薦｜Meet ...",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/41334",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/41334",
-            "url": "https://meet.bnext.com.tw/articles/view/41334",
-            "visibleUrl": "meet.bnext.com.tw",
-            "richSnippet": {
-                "cseImage": {
-                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2017-08/img-1501841288-67610.jpg?w=900&output=webp"
-                },
-                "metatags": {
-                    "myViewId": "41334",
-                    "myPageType": "view",
-                    "ogTitle": "揭開亞馬遜內部流傳的管理書單！這 10 本好書，貝佐斯超推薦｜Meet創業小聚",
-                    "myIsLogin": "0",
-                    "ogType": "website",
-                    "myHid": "0",
-                    "myPublishDate": "2017-08-08T19:00:00+08:00",
-                    "myAuthor": "['陳書榕']",
-                    "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "Meet創業小聚",
-                    "appleItunesApp": "app-id=1498785087",
-                    "myIsAds": "0",
-                    "myPageFormat": "article",
-                    "articlePublishedTime": "2017-08-08T19:00:00+08:00",
-                    "myMemberOnly": "0",
-                    "dableAuthor": "陳書榕",
-                    "ogDescription": "美國時間2017年7月27日，亞馬遜創辦人傑夫．貝佐斯（Jeff Bezos），「一度」拉下已蟬連18年的世界首富比爾．蓋茲（Bill Gates），登上冠軍寶座。雖然這個首富頭銜只停留在貝佐斯身上約莫一天時間，又因為亞馬遜股價由紅翻黑，只好摸摸鼻子拱手還給比爾﹒蓋茲。\r\n\r\n我想的標題：\r\n揭開亞馬遜內部流傳的祕密書單！這 9 本好書，貝佐斯超推薦\r\nps.小標寫10本蛋裡面只有9本\r\n然後我修改了一些小格是這樣",
-                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/album/2017-08/img-1501841288-67610.jpg?w=900&output=webp",
-                    "ogLocale": "zh_TW",
-                    "myCategory": "新零售",
-                    "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "YsIyBHexHSasaeySd1vABYuYuDeR1a3kkM5nrXtH",
-                    "myMemberHid": "0",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "myTags": "亞馬遜,比爾蓋茲,Jeff Bezos",
-                    "dableItemId": "41334",
-                    "ogUrl": "https://meet.bnext.com.tw/articles/view/41334",
-                    "myUid": "41334",
-                    "appleMobileWebAppStatusBarStyle": "black-translucent",
-                    "appleMobileWebAppCapable": "yes",
-                    "articleAuthor": "https://www.facebook.com/MeetStartup"
-                },
-                "cseThumbnail": {
-                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkrs0Re_HfpF5xJ9wJLPs5dKoCvlqyBZvQiklXuvPBVf_stYckH04D7hU",
-                    "width": "275",
-                    "height": "183"
-                }
-            },
-            "breadcrumbUrl": {
-                "host": "meet.bnext.com.tw",
-                "crumbs": [
-                    "articles",
-                    "view"
-                ]
-            }
-        },
-        {
-            "cacheUrl": "http://www.google.com/search?q=cache:_QlbEYml2ckJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/5469&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAcQAg&usg=AOvVaw0F0Z8sycIObKjRoBibEp9y",
-            "content": "2004年6月1日 <b>...</b> 就讀元智大學四年級的安恆璇，正以網路賣家與<b>企管</b>系學生的雙重身份，創造年營收百萬的佳績。 **商品獨特才有商機.",
-            "contentNoFormatting": "2004年6月1日 ... 就讀元智大學四年級的安恆璇，正以網路賣家與企管系學生的雙重身份，創造年營收百萬的佳績。 **商品獨特才有商機.",
-            "title": "自創品牌的網路拍賣王｜Meet創業小聚",
-            "titleNoFormatting": "自創品牌的網路拍賣王｜Meet創業小聚",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/5469",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/5469",
-            "url": "https://meet.bnext.com.tw/articles/view/5469",
-            "visibleUrl": "meet.bnext.com.tw",
-            "richSnippet": {
-                "cseImage": {
-                    "src": "http://4.bp.blogspot.com/-HrjlCrZszug/U7N0uRHZ8zI/AAAAAAAABSI/VsCpmwVCXRI/s1024/shutterstock_160363706.jpg"
-                },
-                "metatags": {
-                    "myViewId": "5469",
-                    "myPageType": "view",
-                    "ogTitle": "自創品牌的網路拍賣王｜Meet創業小聚",
-                    "myIsLogin": "0",
-                    "ogType": "website",
-                    "myHid": "0",
-                    "myPublishDate": "2004-06-01T12:00:00+08:00",
-                    "myAuthor": "['數位時代']",
-                    "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "Meet創業小聚",
-                    "appleItunesApp": "app-id=1498785087",
-                    "myIsAds": "0",
-                    "myPageFormat": "article",
-                    "articlePublishedTime": "2004-06-01T12:00:00+08:00",
-                    "myMemberOnly": "0",
-                    "dableAuthor": "數位時代",
-                    "ogDescription": "就讀元智大學四年級的安恆璇，正以網路賣家與企管系學生的雙重身份，創造年營收百萬的佳績。   \r\n  \r\n  \r\n**商品獨特才有商機",
-                    "ogImage": "http://4.bp.blogspot.com/-HrjlCrZszug/U7N0uRHZ8zI/AAAAAAAABSI/VsCpmwVCXRI/s1024/shutterstock_160363706.jpg",
-                    "ogLocale": "zh_TW",
-                    "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "jkDBTlL1oTDtbcqEC7TYMHriWG2ku3zU2DKhAkkP",
-                    "myMemberHid": "0",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "dableItemId": "5469",
-                    "ogUrl": "https://meet.bnext.com.tw/articles/view/5469",
-                    "myUid": "5469",
-                    "appleMobileWebAppStatusBarStyle": "black-translucent",
-                    "appleMobileWebAppCapable": "yes",
-                    "articleAuthor": "https://www.facebook.com/MeetStartup"
-                },
-                "cseThumbnail": {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-enYhMWrqlYflwOfRsIraygpnKGmL05gUceAeJR7HaHcQsIkOFqIEmEA",
-                    "width": "281",
-                    "height": "179"
-                }
-            },
-            "breadcrumbUrl": {
-                "host": "meet.bnext.com.tw",
-                "crumbs": [
-                    "articles",
-                    "view"
-                ]
-            }
-        },
-        {
-            "cacheUrl": "http://www.google.com/search?q=cache:X4RwnLYX7KwJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/author/view/1294&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAUQAQ&usg=AOvVaw3n3mnRgDDN6TfSJ7RWpYnq",
-            "content": "Randolph Lin / 世新<b>企管</b>系助理教授. 世新<b>企管</b>系助理教授，對創新與創業的相關議題難以抗拒，認為鼓勵創業並協助創業團隊探索市場機會是帶領台灣走出深谷的唯一道路。",
-            "contentNoFormatting": "Randolph Lin / 世新企管系助理教授. 世新企管系助理教授，對創新與創業的相關議題難以抗拒，認為鼓勵創業並協助創業團隊探索市場機會是帶領台灣走出深谷的唯一道路。",
-            "title": "林建江的文章｜Meet創業小聚",
-            "titleNoFormatting": "林建江的文章｜Meet創業小聚",
-            "formattedUrl": "https://meet.bnext.com.tw/author/view/1294",
-            "unescapedUrl": "https://meet.bnext.com.tw/author/view/1294",
-            "url": "https://meet.bnext.com.tw/author/view/1294",
-            "visibleUrl": "meet.bnext.com.tw",
-            "richSnippet": {
-                "cseImage": {
-                    "src": "https://cdn.bnextmedia.com.tw/meet/images/meet-fb-share.png"
-                },
-                "metatags": {
-                    "myViewId": "0",
-                    "myPageType": "view",
-                    "ogTitle": "林建江的文章｜Meet創業小聚",
-                    "myIsLogin": "0",
-                    "ogType": "website",
-                    "myHid": "0",
-                    "myAuthor": "['Meet創業小聚']",
-                    "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "Meet創業小聚",
-                    "appleItunesApp": "app-id=1498785087",
-                    "myIsAds": "0",
-                    "myPageFormat": "article",
-                    "myMemberOnly": "0",
-                    "dableAuthor": "Meet創業小聚",
-                    "ogDescription": "《數位時代》自2011年起，開始以Meet社群品牌推動創業家們的交流連結。從新創團隊的採訪報導、創業小聚月會的分享、產業沙龍的分\n    享…， 提供創新與創業社群相互分享與媒合的平台。",
-                    "ogImage": "https://cdn.bnextmedia.com.tw/meet/images/meet-fb-share.png",
-                    "ogLocale": "zh_TW",
-                    "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "UDr5OV6ofE5MDCgvCNE05Ch3gA9BHaLJZWfApMd7",
-                    "myMemberHid": "0",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "dableItemId": "0",
-                    "ogUrl": "https://meet.bnext.com.tw/author/view/1294",
-                    "myUid": "0",
-                    "appleMobileWebAppStatusBarStyle": "black-translucent",
-                    "appleMobileWebAppCapable": "yes",
-                    "articleAuthor": "https://www.facebook.com/MeetStartup"
-                },
-                "cseThumbnail": {
-                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuNLaJA4q_jUWPuMSjSeRZplFE3EIwHOfNas5HmNgKAkGMf7U0_i3xCmg",
-                    "width": "310",
-                    "height": "163"
-                }
-            },
-            "breadcrumbUrl": {
-                "host": "meet.bnext.com.tw",
-                "crumbs": [
-                    "author",
-                    "view"
-                ]
-            }
-        },
-        {
-            "cacheUrl": "http://www.google.com/search?q=cache:GStfUVMr7H4J:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/49716&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAYQAg&usg=AOvVaw2XF9HmsIB-9nTYE9PhfnaN",
-            "content": "2023年7月2日 <b>...</b> 在此之前，企業策略分析的基本方法是肯恩・安德魯（Ken Andrew）發展的SWOT分析，即分析判斷企業本身的優勢（strength）和劣勢（weakness），以及外部環境&nbsp;...",
-            "contentNoFormatting": "2023年7月2日 ... 在此之前，企業策略分析的基本方法是肯恩・安德魯（Ken Andrew）發展的SWOT分析，即分析判斷企業本身的優勢（strength）和劣勢（weakness），以及外部環境 ...",
-            "title": "五力分析圖是什麼？幫助檢視產業競爭的五力分析法，定義、範例 ...",
-            "titleNoFormatting": "五力分析圖是什麼？幫助檢視產業競爭的五力分析法，定義、範例 ...",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/49716",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/49716",
-            "url": "https://meet.bnext.com.tw/articles/view/49716",
-            "visibleUrl": "meet.bnext.com.tw",
-            "richSnippet": {
-                "cseImage": {
-                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2022-01/img-1643272318-80504.jpg?w=900&output=webp"
-                },
-                "metatags": {
-                    "myViewId": "1740",
-                    "myPageType": "view",
-                    "ogTitle": "五力分析圖是什麼？幫助檢視產業競爭的五力分析法，定義、範例一次看懂！|經理人",
-                    "myIsLogin": "0",
-                    "ogType": "website",
-                    "myPublishDate": "2023-07-02T14:00:00+08:00",
-                    "myAuthor": "經理人月刊編輯部",
-                    "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "經理人",
-                    "appleItunesApp": "app-id=1591157883",
-                    "myPageSerial": "1",
-                    "myIsAds": "0",
-                    "myPageFormat": "article",
-                    "fbPages": "198019486347",
-                    "articlePublishedTime": "2023-07-02T14:00:00+08:00",
-                    "myMemberOnly": "0",
-                    "ogDescription": "五力分析是管理學名師麥可・波特所提出，用意在解決SWOT分析過於籠統的缺點，本文針對其中五力分析解釋定義、並提供實際範例，帶你一次看懂「五力分析」。",
-                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/album/2022-01/img-1643272318-80504.jpg?w=900&output=webp",
-                    "ogLocale": "zh_TW",
-                    "myCategory": "決策技術",
-                    "articlePublisher": "https://www.facebook.com/managertoday",
-                    "csrfToken": "kxGHllOQdJLBTIIPWQusptxD0shg930DgbypsMKC",
-                    "myMemberHid": "0",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "myTags": "策略,品牌,思考術",
-                    "ogUrl": "https://www.managertoday.com.tw/articles/view/1740",
-                    "appleMobileWebAppStatusBarStyle": "black-translucent",
-                    "appleMobileWebAppCapable": "yes",
-                    "fbAppId": "1036773739746188",
-                    "articleAuthor": "https://www.facebook.com/managertoday"
-                },
-                "cseThumbnail": {
-                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgvifxmTHDizDmgFWIn6wafhmV7nE0ItSQs24BADzFvxWmz7u9cg7ZcDK",
-                    "width": "228",
-                    "height": "221"
-                }
-            },
-            "breadcrumbUrl": {
-                "host": "meet.bnext.com.tw",
-                "crumbs": [
-                    "articles",
-                    "view"
-                ]
-            }
-        },
-        {
-            "cacheUrl": "http://www.google.com/search?q=cache:Jt-kb_8wp1sJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/68&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAIQAg&usg=AOvVaw0eCh75dR7DgsLWAVU-6iq5",
-            "content": "2007年10月12日 <b>...</b> ... <b>企管</b>類的書籍，並且收入都在中上水準，因此，網路書店可以針對這個族群促銷汽車雜誌，甚至與其他業者配合行銷精品活動，以達到對消費者的產品廣度擴展&nbsp;...",
-            "contentNoFormatting": "2007年10月12日 ... ... 企管類的書籍，並且收入都在中上水準，因此，網路書店可以針對這個族群促銷汽車雜誌，甚至與其他業者配合行銷精品活動，以達到對消費者的產品廣度擴展 ...",
-            "title": "SAP買下商業智慧大廠BO 與甲骨文力抗｜Meet創業小聚",
-            "titleNoFormatting": "SAP買下商業智慧大廠BO 與甲骨文力抗｜Meet創業小聚",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/68",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/68",
-            "url": "https://meet.bnext.com.tw/articles/view/68",
-            "visibleUrl": "meet.bnext.com.tw",
-            "richSnippet": {
-                "cseImage": {
-                    "src": "http://3.bp.blogspot.com/-KgMLi1Geouw/U7d2ZkuZ9UI/AAAAAAAACR0/6KUET46dZB8/s1024/shutterstock_170427077.jpg"
-                },
-                "metatags": {
-                    "myViewId": "68",
-                    "myPageType": "view",
-                    "ogTitle": "SAP買下商業智慧大廠BO 與甲骨文力抗｜Meet創業小聚",
-                    "myIsLogin": "0",
-                    "ogType": "website",
-                    "myHid": "0",
-                    "myPublishDate": "2007-10-12T12:00:00+08:00",
-                    "myAuthor": "['數位時代']",
-                    "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "Meet創業小聚",
-                    "appleItunesApp": "app-id=1498785087",
-                    "myIsAds": "0",
-                    "myPageFormat": "article",
-                    "articlePublishedTime": "2007-10-12T12:00:00+08:00",
-                    "myMemberOnly": "0",
-                    "dableAuthor": "數位時代",
-                    "ogDescription": "商業智慧（Business IntelligenceI，BI）軟體市場再掀波瀾，繼甲骨文（Oracle）於2006年3月以33億美元美下Hyperio",
-                    "ogImage": "http://3.bp.blogspot.com/-KgMLi1Geouw/U7d2ZkuZ9UI/AAAAAAAACR0/6KUET46dZB8/s1024/shutterstock_170427077.jpg",
-                    "ogLocale": "zh_TW",
-                    "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "odTdw9U5yTew27lQgWmBffoIHNYu1BLB5BEJL8Tb",
-                    "myMemberHid": "0",
-                    "viewport": "width=device-width,initial-scale=1",
-                    "dableItemId": "68",
-                    "ogUrl": "https://meet.bnext.com.tw/articles/view/68",
-                    "myUid": "68",
-                    "appleMobileWebAppStatusBarStyle": "black-translucent",
-                    "appleMobileWebAppCapable": "yes",
-                    "articleAuthor": "https://www.facebook.com/MeetStartup"
-                },
-                "cseThumbnail": {
-                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDveBCCESv2h-ryxsLZ-M1kuRSIz7YrDvZXAmC4UnuecBGuYFnNJi8FyU8",
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-m460GGCYMghgP7yjCTMcYRQHOgQDE70luCiYZxLJqVCv_xsmeyKHfX8Q",
                     "width": "290",
                     "height": "174"
                 }
@@ -536,57 +176,56 @@
             }
         },
         {
-            "cacheUrl": "http://www.google.com/search?q=cache:kgj127F-WgwJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/37611&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAkQAg&usg=AOvVaw3vDdan0Dd9mwcJmGLpDFEi",
-            "content": "2016年5月5日 <b>...</b> 政大<b>企管</b>系畢業。雖然自己從來沒有租過房子，但在學校發現外籍生租屋不便，因而想讓租屋資訊透明化，創辦「Zuker租客」租屋資訊平台。 在都市裡，房屋&nbsp;...",
-            "contentNoFormatting": "2016年5月5日 ... 政大企管系畢業。雖然自己從來沒有租過房子，但在學校發現外籍生租屋不便，因而想讓租屋資訊透明化，創辦「Zuker租客」租屋資訊平台。 在都市裡，房屋 ...",
-            "title": "解決租屋資訊不對稱，人人都能當「租客」——「Zuker」創辦人黃聖皓",
-            "titleNoFormatting": "解決租屋資訊不對稱，人人都能當「租客」——「Zuker」創辦人黃聖皓",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/37611",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/37611",
-            "url": "https://meet.bnext.com.tw/articles/view/37611",
+            "cacheUrl": "http://www.google.com/search?q=cache:5VLTpJZVFz4J:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/37428&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAYQAg&usg=AOvVaw0ShVMaPJxVk24okPsl3rT-",
+            "content": "2016年4月6日 <b>...</b> 而在台灣，Weathernews的客戶則僅限於海運和航空公司。台灣分公司總裁特別助理呂欣穎說明，目前包括長榮海運、陽明海運等絕大部分的海運公司都是服務對象&nbsp;...",
+            "contentNoFormatting": "2016年4月6日 ... 而在台灣，Weathernews的客戶則僅限於海運和航空公司。台灣分公司總裁特別助理呂欣穎說明，目前包括長榮海運、陽明海運等絕大部分的海運公司都是服務對象 ...",
+            "title": "靠著賣<b>天氣</b>吃飯：日本最大氣象公司Weathernews營業額達140億日幣",
+            "titleNoFormatting": "靠著賣天氣吃飯：日本最大氣象公司Weathernews營業額達140億日幣",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/37428",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/37428",
+            "url": "https://meet.bnext.com.tw/articles/view/37428",
             "visibleUrl": "meet.bnext.com.tw",
             "richSnippet": {
                 "cseImage": {
-                    "src": "https://3.bp.blogspot.com/-gwj6ubVFlM4/VyxzwG8AJkI/AAAAAAACZC8/-i6Vdrmcu18UtgamugqAjYRImVbL3Z5egCKgB/s1024/"
+                    "src": "https://3.bp.blogspot.com/-YUXhePG1gQo/VwR_ob_pK0I/AAAAAAACLgk/XZ-62ylikR4g1Wrvyd6U9uXcBgPdR3tww/s1024/"
                 },
                 "metatags": {
-                    "myViewId": "37611",
+                    "myViewId": "37428",
                     "myPageType": "view",
-                    "ogTitle": "解決租屋資訊不對稱，人人都能當「租客」——「Zuker」創辦人黃聖皓｜Meet創業小聚",
+                    "ogTitle": "靠著賣天氣吃飯：日本最大氣象公司Weathernews營業額達140億日幣｜Meet創業小聚",
                     "myIsLogin": "0",
                     "ogType": "website",
                     "myHid": "0",
-                    "myPublishDate": "2016-05-05T23:59:00+08:00",
-                    "myAuthor": "['許文貞']",
+                    "myPublishDate": "2016-04-06T11:10:00+08:00",
+                    "myAuthor": "['顏理謙']",
                     "formatDetection": "telephone=no",
                     "appleMobileWebAppTitle": "Meet創業小聚",
                     "appleItunesApp": "app-id=1498785087",
                     "myIsAds": "0",
                     "myPageFormat": "article",
-                    "articlePublishedTime": "2016-05-05T23:59:00+08:00",
+                    "articlePublishedTime": "2016-04-06T11:10:00+08:00",
                     "myMemberOnly": "0",
-                    "dableAuthor": "許文貞",
-                    "ogDescription": "> 很多人都有租房的經驗，然而租屋網站只有提供屋況資訊，沒有任何評價與討論，不容易建立信任，也影響成交速度。創辦「Zuker租客」的黃聖皓，正是在求學",
-                    "ogImage": "https://3.bp.blogspot.com/-gwj6ubVFlM4/VyxzwG8AJkI/AAAAAAACZC8/-i6Vdrmcu18UtgamugqAjYRImVbL3Z5egCKgB/s1024/",
+                    "dableAuthor": "顏理謙",
+                    "ogDescription": "> 說到氣象，大多數人可能會想到每天在電視、網路或App中看到的天氣預報。這些資訊隨取隨得，不用花你半毛錢。那麼，民間氣象公司有辦法賺錢嗎？這家日本公",
+                    "ogImage": "https://3.bp.blogspot.com/-YUXhePG1gQo/VwR_ob_pK0I/AAAAAAACLgk/XZ-62ylikR4g1Wrvyd6U9uXcBgPdR3tww/s1024/",
                     "ogLocale": "zh_TW",
-                    "myCategory": "新零售",
+                    "myCategory": "企業服務,數位工具",
                     "articlePublisher": "https://www.facebook.com/MeetStartup",
-                    "csrfToken": "tgTQIEjL7jcFqVcHvGDQQnO4qMWwZvJh8Zs5Rb5Y",
+                    "csrfToken": "tkgGFoVHNNkDKRei8LjM3FbY67ryKFjNU7rIjSXF",
                     "myMemberHid": "0",
                     "viewport": "width=device-width,initial-scale=1",
-                    "myTags": "Meet創業之星,共享經濟",
-                    "dableItemId": "37611",
-                    "ogUrl": "https://meet.bnext.com.tw/articles/view/37611",
-                    "myUid": "37611",
+                    "dableItemId": "37428",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/37428",
+                    "myUid": "37428",
                     "appleMobileWebAppStatusBarStyle": "black-translucent",
                     "appleMobileWebAppCapable": "yes",
                     "articleAuthor": "https://www.facebook.com/MeetStartup"
                 },
                 "cseThumbnail": {
-                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMOAZvES6LjSpy3I9HSDRGU78Zki3-vpNwolHX414dsCHo3I5U8DbHxFIC",
-                    "width": "281",
-                    "height": "179"
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzCGb_U88b7qiqNyH2T_pv9OZe3M4GA_2EwI86_0xOgU_Tdf1JcAFXmhA",
+                    "width": "275",
+                    "height": "183"
                 }
             },
             "breadcrumbUrl": {
@@ -598,56 +237,422 @@
             }
         },
         {
-            "cacheUrl": "http://www.google.com/search?q=cache:LqnjSrfLLHIJ:meet.bnext.com.tw",
-            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/46870&sa=U&ved=2ahUKEwi2xpbU1KOCAxWojVYBHRm2C1IQFnoECAQQAg&usg=AOvVaw0IWDmNa2qU0tMdTOvFcdPR",
-            "content": "2020年8月31日 <b>...</b> 即使金融業態仍有難以打破的包袱，但李健輔見證國泰世華內部從壁壘分明、走向能打團體仗的變形蟲組織，盡力實現透明、開放、扁平化的<b>企業管理</b>，因此他&nbsp;...",
-            "contentNoFormatting": "2020年8月31日 ... 即使金融業態仍有難以打破的包袱，但李健輔見證國泰世華內部從壁壘分明、走向能打團體仗的變形蟲組織，盡力實現透明、開放、扁平化的企業管理，因此他 ...",
-            "title": "8 張圖，掌握近80 年最重要的創新理論！|經理人",
-            "titleNoFormatting": "8 張圖，掌握近80 年最重要的創新理論！|經理人",
-            "formattedUrl": "https://meet.bnext.com.tw/articles/view/46870",
-            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/46870",
-            "url": "https://meet.bnext.com.tw/articles/view/46870",
+            "cacheUrl": "http://www.google.com/search?q=cache:_d7nam_abQgJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/35538&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAUQAg&usg=AOvVaw2-9ZKvGXsw2xfdVaJ28zl3",
+            "content": "2015年3月4日 <b>...</b> 物聯網(IOT)是今年MWC的重頭戲，其中車聯網更是熱門中的熱門，高通找來瑪莎拉蒂，愛立信與Volvo合作，韓國LG牽手Audi，英特爾與BMW重機.",
+            "contentNoFormatting": "2015年3月4日 ... 物聯網(IOT)是今年MWC的重頭戲，其中車聯網更是熱門中的熱門，高通找來瑪莎拉蒂，愛立信與Volvo合作，韓國LG牽手Audi，英特爾與BMW重機.",
+            "title": "[MWC2015現場]車聯網：霹靂夥計，今天<b>天氣</b>如何?｜Meet創業小聚",
+            "titleNoFormatting": "[MWC2015現場]車聯網：霹靂夥計，今天天氣如何?｜Meet創業小聚",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/35538",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/35538",
+            "url": "https://meet.bnext.com.tw/articles/view/35538",
             "visibleUrl": "meet.bnext.com.tw",
             "richSnippet": {
                 "cseImage": {
-                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2020-08/img-1598844188-95439.jpg?w=900&output=webp"
+                    "src": "https://4.bp.blogspot.com/-1nAD3Wjwyi0/VPaspQbCy4I/AAAAAAAAvJ8/JCitUNd1lNw/s1024/"
                 },
                 "metatags": {
-                    "myViewId": "60287",
+                    "myViewId": "35538",
                     "myPageType": "view",
-                    "ogTitle": "8 張圖，掌握近 80 年最重要的創新理論！|經理人",
+                    "ogTitle": "[MWC2015現場]車聯網：霹靂夥計，今天天氣如何?｜Meet創業小聚",
                     "myIsLogin": "0",
                     "ogType": "website",
-                    "myPublishDate": "2020-08-31T11:53:00+08:00",
-                    "myAuthor": "周頌宜",
+                    "myHid": "0",
+                    "myPublishDate": "2015-03-04T16:03:00+08:00",
+                    "myAuthor": "[' 盧諭緯(巴塞隆納報導)']",
                     "formatDetection": "telephone=no",
-                    "appleMobileWebAppTitle": "經理人",
-                    "appleItunesApp": "app-id=1591157883",
-                    "myPageSerial": "1",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
                     "myIsAds": "0",
                     "myPageFormat": "article",
-                    "fbPages": "198019486347",
-                    "articlePublishedTime": "2020-08-31T11:53:00+08:00",
+                    "articlePublishedTime": "2015-03-04T16:03:00+08:00",
                     "myMemberOnly": "0",
-                    "ogDescription": "這 80 年來有各種理論，可供企業思考創新時做為參考。創造性破壞、技術採用生命周期、藍海策略、開放式創新。",
-                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/album/2020-08/img-1598844188-95439.jpg?w=900&output=webp",
+                    "dableAuthor": "盧諭緯(巴塞隆納報導)",
+                    "ogDescription": "物聯網 (IOT)是今年MWC的重頭戲，其中車聯網更是熱門中的熱門，高通找來瑪莎拉蒂，愛立信與Volvo合作，韓國LG牽手Audi，英特爾與BMW重機",
+                    "ogImage": "https://4.bp.blogspot.com/-1nAD3Wjwyi0/VPaspQbCy4I/AAAAAAAAvJ8/JCitUNd1lNw/s1024/",
                     "ogLocale": "zh_TW",
-                    "myCategory": "創新創業",
-                    "articlePublisher": "https://www.facebook.com/managertoday",
-                    "csrfToken": "nK8jFrvf3PrDWtMon85NRZlsepu1CE72HRLLxYC3",
+                    "myCategory": "硬體",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "Q6ccQtb8v8qC5TdpyCZrRhklwrM40UW8UkXALnJL",
                     "myMemberHid": "0",
                     "viewport": "width=device-width,initial-scale=1",
-                    "myTags": "創新",
-                    "ogUrl": "https://www.managertoday.com.tw/articles/view/60287",
+                    "myTags": "英特爾,LG,高通,Audi,NFC,BMW,愛立信,奧迪,車聯網,藍芽,Grab",
+                    "dableItemId": "35538",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/35538",
+                    "myUid": "35538",
                     "appleMobileWebAppStatusBarStyle": "black-translucent",
                     "appleMobileWebAppCapable": "yes",
-                    "fbAppId": "1036773739746188",
-                    "articleAuthor": "https://www.facebook.com/managertoday"
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
                 },
                 "cseThumbnail": {
-                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-LvWU18KeiGeOR5Y1g40fixrxGu5GWP6wJ2QwkuLH8Aemuin_CRtYHHg",
-                    "width": "260",
+                    "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP-G-UnINiYEzzzq4YI0V60sU0RchfQXwdIhandLNpfBk7_rqnGd-4poxX",
+                    "width": "259",
                     "height": "194"
+                }
+            },
+            "breadcrumbUrl": {
+                "host": "meet.bnext.com.tw",
+                "crumbs": [
+                    "articles",
+                    "view"
+                ]
+            }
+        },
+        {
+            "cacheUrl": "http://www.google.com/search?q=cache:hu6qyH2YZZYJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/46151&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAQQAg&usg=AOvVaw3aRaoAWPHFVvxI06L-jTPM",
+            "content": "2020年6月16日 <b>...</b> 除了科技公司開始試著從<b>天氣</b>淘金，前幾天美國總統川普搭乘總統豪華座車參加美國最受歡迎的賽車運動「NASCAR Race」，<b>天氣</b>也在其中扮演影響勝負的重要角色&nbsp;...",
+            "contentNoFormatting": "2020年6月16日 ... 除了科技公司開始試著從天氣淘金，前幾天美國總統川普搭乘總統豪華座車參加美國最受歡迎的賽車運動「NASCAR Race」，天氣也在其中扮演影響勝負的重要角色 ...",
+            "title": "「氣象產業」發大財！連Google 也投入的大金礦，新創ClimaCell 已 ...",
+            "titleNoFormatting": "「氣象產業」發大財！連Google 也投入的大金礦，新創ClimaCell 已 ...",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/46151",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/46151",
+            "url": "https://meet.bnext.com.tw/articles/view/46151",
+            "visibleUrl": "meet.bnext.com.tw",
+            "richSnippet": {
+                "cseImage": {
+                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2018-06/img-1529041920-51728.jpg?w=900&output=webp"
+                },
+                "metatags": {
+                    "myViewId": "46151",
+                    "myPageType": "view",
+                    "ogTitle": "「氣象產業」發大財！連 Google 也投入的大金礦，新創 ClimaCell 已把手機變微型氣象站｜Meet創業小聚",
+                    "myIsLogin": "0",
+                    "ogType": "website",
+                    "myHid": "0",
+                    "myPublishDate": "2020-06-16T10:00:00+08:00",
+                    "myAuthor": "['創新拿鐵／陳蔚銘']",
+                    "formatDetection": "telephone=no",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
+                    "myIsAds": "0",
+                    "myPageFormat": "article",
+                    "articlePublishedTime": "2020-06-16T10:00:00+08:00",
+                    "myMemberOnly": "0",
+                    "dableAuthor": "創新拿鐵／陳蔚銘",
+                    "ogDescription": "美國新創ClimaCell與電信公司合作，偵測手機基地台與用戶手機之間連接的訊號品質，藉此精準推算該區域的天氣。",
+                    "ogImage": "https://image-cdn.learnin.tw/bnextmedia/image/album/2018-06/img-1529041920-51728.jpg?w=900&output=webp",
+                    "ogLocale": "zh_TW",
+                    "myCategory": "企業服務",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "CRW12vlgytpa1dNF5zj5uO8SBCFiwo4KyjyrfCEk",
+                    "myMemberHid": "0",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "myTags": "Google,Facebook",
+                    "dableItemId": "46151",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/46151",
+                    "myUid": "46151",
+                    "appleMobileWebAppStatusBarStyle": "black-translucent",
+                    "appleMobileWebAppCapable": "yes",
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
+                },
+                "cseThumbnail": {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_q3PwaZVUPw5mw3lJRE-CKNazvuWgHklFC_sZqaQxlyy6KNphutbpSr_G",
+                    "width": "275",
+                    "height": "183"
+                }
+            },
+            "breadcrumbUrl": {
+                "host": "meet.bnext.com.tw",
+                "crumbs": [
+                    "articles",
+                    "view"
+                ]
+            }
+        },
+        {
+            "cacheUrl": "http://www.google.com/search?q=cache:kGL8R9MK9CEJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/27424&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAgQAg&usg=AOvVaw2KZzPdf2XqGBgQSlZ-2v2r",
+            "content": "2013年4月20日 <b>...</b> Weather)，以及支援iPad跟Android平板用的Yahoo! 電子信箱(Yahoo! Mail)。 自2007年iPhone問世以來，官方<b>天氣</b>應用的資料，其實便一直是由雅虎&nbsp;...",
+            "contentNoFormatting": "2013年4月20日 ... Weather)，以及支援iPad跟Android平板用的Yahoo! 電子信箱(Yahoo! Mail)。 自2007年iPhone問世以來，官方天氣應用的資料，其實便一直是由雅虎 ...",
+            "title": "持續翻新服務，雅虎再推新版email、<b>天氣</b>App｜Meet創業小聚",
+            "titleNoFormatting": "持續翻新服務，雅虎再推新版email、天氣App｜Meet創業小聚",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/27424",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/27424",
+            "url": "https://meet.bnext.com.tw/articles/view/27424",
+            "visibleUrl": "meet.bnext.com.tw",
+            "richSnippet": {
+                "cseImage": {
+                    "src": "http://4.bp.blogspot.com/-ToWBQfbkquI/U7N0xTmIemI/AAAAAAAABSg/RheZ1n6HohA/s1024/shutterstock_182696474.jpg"
+                },
+                "metatags": {
+                    "myViewId": "27424",
+                    "myPageType": "view",
+                    "ogTitle": "持續翻新服務，雅虎再推新版email、天氣App｜Meet創業小聚",
+                    "myIsLogin": "0",
+                    "ogType": "website",
+                    "myHid": "0",
+                    "myPublishDate": "2013-04-20T11:02:00+08:00",
+                    "myAuthor": "['劉翰謙編譯']",
+                    "formatDetection": "telephone=no",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
+                    "myIsAds": "0",
+                    "myPageFormat": "article",
+                    "articlePublishedTime": "2013-04-20T11:02:00+08:00",
+                    "myMemberOnly": "0",
+                    "dableAuthor": "劉翰謙編譯",
+                    "ogDescription": "新執行長梅爾(Marissa Mayer)接手以來，不斷更新自家服務設計、內容的雅虎，今天又釋出了最新的再造產品，分別是[iPhone版的Yahoo!",
+                    "ogImage": "http://4.bp.blogspot.com/-ToWBQfbkquI/U7N0xTmIemI/AAAAAAAABSg/RheZ1n6HohA/s1024/shutterstock_182696474.jpg",
+                    "ogLocale": "zh_TW",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "pNdpCIhwa1zQ7Dor2y2y5LUeZ6Z3Cj8H1Iq5lQ1F",
+                    "myMemberHid": "0",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "dableItemId": "27424",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/27424",
+                    "myUid": "27424",
+                    "appleMobileWebAppStatusBarStyle": "black-translucent",
+                    "appleMobileWebAppCapable": "yes",
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
+                },
+                "cseThumbnail": {
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCPG7NxngAFB9kYyNf2ZyxENCz6h7owikONP35A8AywAs5eS3l8Tafqvg",
+                    "width": "256",
+                    "height": "197"
+                }
+            },
+            "breadcrumbUrl": {
+                "host": "meet.bnext.com.tw",
+                "crumbs": [
+                    "articles",
+                    "view"
+                ]
+            }
+        },
+        {
+            "cacheUrl": "http://www.google.com/search?q=cache:rM4rqph7jfYJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/981&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAEQAg&usg=AOvVaw06snMZpzwZeDQLZ329gYyP",
+            "content": "2008年8月23日 <b>...</b> 【編輯推薦】<b>天氣</b>預報~多雲，全球雲端運算熱 &middot; 你也許不知道明天是否下雨，但科技產業未來的趨勢預報隱然成形， &middot; IBM雲端運算之父趙維義博士星期五（8月22&nbsp;...",
+            "contentNoFormatting": "2008年8月23日 ... 【編輯推薦】天氣預報~多雲，全球雲端運算熱 · 你也許不知道明天是否下雨，但科技產業未來的趨勢預報隱然成形， · IBM雲端運算之父趙維義博士星期五（8月22 ...",
+            "title": "【編輯推薦】<b>天氣</b>預報~多雲，全球雲端運算熱｜Meet創業小聚",
+            "titleNoFormatting": "【編輯推薦】天氣預報~多雲，全球雲端運算熱｜Meet創業小聚",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/981",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/981",
+            "url": "https://meet.bnext.com.tw/articles/view/981",
+            "visibleUrl": "meet.bnext.com.tw",
+            "richSnippet": {
+                "cseImage": {
+                    "src": "http://4.bp.blogspot.com/-rhWnrH7FExo/U7N0c4LIYsI/AAAAAAAABQU/t-katwA1ng0/s1024/shutterstock_165062033.jpg"
+                },
+                "metatags": {
+                    "myViewId": "981",
+                    "myPageType": "view",
+                    "ogTitle": "【編輯推薦】天氣預報~多雲，全球雲端運算熱｜Meet創業小聚",
+                    "myIsLogin": "0",
+                    "ogType": "website",
+                    "myHid": "0",
+                    "myPublishDate": "2008-08-23T12:01:00+08:00",
+                    "myAuthor": "['數位時代']",
+                    "formatDetection": "telephone=no",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
+                    "myIsAds": "0",
+                    "myPageFormat": "article",
+                    "articlePublishedTime": "2008-08-23T12:01:00+08:00",
+                    "myMemberOnly": "0",
+                    "dableAuthor": "數位時代",
+                    "ogDescription": "<font size=\"2\">你也許不知道明天是否下雨，但科技產業未來的趨勢預報隱然成形，</font>[<font size=\"2\">雲端運算</f",
+                    "ogImage": "http://4.bp.blogspot.com/-rhWnrH7FExo/U7N0c4LIYsI/AAAAAAAABQU/t-katwA1ng0/s1024/shutterstock_165062033.jpg",
+                    "ogLocale": "zh_TW",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "wJu9QKzw390ZpL4ENOkV5IQCuSSSFwfeQdpcetw5",
+                    "myMemberHid": "0",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "dableItemId": "981",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/981",
+                    "myUid": "981",
+                    "appleMobileWebAppStatusBarStyle": "black-translucent",
+                    "appleMobileWebAppCapable": "yes",
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
+                },
+                "cseThumbnail": {
+                    "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrQUYYasHXMD9Vi4bm-9AaaaW7nCLI9l6DdNe10XyNXnqOuAb148NQzBg",
+                    "width": "277",
+                    "height": "182"
+                }
+            },
+            "breadcrumbUrl": {
+                "host": "meet.bnext.com.tw",
+                "crumbs": [
+                    "articles",
+                    "view"
+                ]
+            }
+        },
+        {
+            "cacheUrl": "http://www.google.com/search?q=cache:-DcNrkTqK8kJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/15394&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAMQAg&usg=AOvVaw0BT2wcmp4ba9cdnXX7-pM5",
+            "content": "2010年7月6日 <b>...</b> <b>天氣</b>熱，中國淘寶網站消暑冰巾超好賣 ... 氣溫頻頻創新高，網路上什麼最賣？根據中國淘寶網的賣家表示，近兩週最搶手的商品是可隨身攜帶的消暑小物，像是&nbsp;...",
+            "contentNoFormatting": "2010年7月6日 ... 天氣熱，中國淘寶網站消暑冰巾超好賣 ... 氣溫頻頻創新高，網路上什麼最賣？根據中國淘寶網的賣家表示，近兩週最搶手的商品是可隨身攜帶的消暑小物，像是 ...",
+            "title": "<b>天氣</b>熱，中國淘寶網站消暑冰巾超好賣｜Meet創業小聚",
+            "titleNoFormatting": "天氣熱，中國淘寶網站消暑冰巾超好賣｜Meet創業小聚",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/15394",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/15394",
+            "url": "https://meet.bnext.com.tw/articles/view/15394",
+            "visibleUrl": "meet.bnext.com.tw",
+            "richSnippet": {
+                "cseImage": {
+                    "src": "http://4.bp.blogspot.com/-9UAmlEpR0oM/U7aPdVThezI/AAAAAAAAB-w/W_A46vmso6s/s1024/shutterstock_161486144.jpg"
+                },
+                "metatags": {
+                    "myViewId": "15394",
+                    "myPageType": "view",
+                    "ogTitle": "天氣熱，中國淘寶網站消暑冰巾超好賣｜Meet創業小聚",
+                    "myIsLogin": "0",
+                    "ogType": "website",
+                    "myHid": "0",
+                    "myPublishDate": "2010-07-06T10:03:00+08:00",
+                    "myAuthor": "['出自騰訊網']",
+                    "formatDetection": "telephone=no",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
+                    "myIsAds": "0",
+                    "myPageFormat": "article",
+                    "articlePublishedTime": "2010-07-06T10:03:00+08:00",
+                    "myMemberOnly": "0",
+                    "dableAuthor": "出自騰訊網",
+                    "ogDescription": "氣溫頻頻創新高，網路上什麼最賣？根據中國[淘寶](http://www.taobao.com)網的賣家表示，近兩週最搶手的商品是可隨身攜帶的消暑小物，",
+                    "ogImage": "http://4.bp.blogspot.com/-9UAmlEpR0oM/U7aPdVThezI/AAAAAAAAB-w/W_A46vmso6s/s1024/shutterstock_161486144.jpg",
+                    "ogLocale": "zh_TW",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "UwvfnQKOVFCt08inLyGapRjvXhSURDpnbQ0k4jTq",
+                    "myMemberHid": "0",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "myTags": "淘寶",
+                    "dableItemId": "15394",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/15394",
+                    "myUid": "15394",
+                    "appleMobileWebAppStatusBarStyle": "black-translucent",
+                    "appleMobileWebAppCapable": "yes",
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
+                },
+                "cseThumbnail": {
+                    "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR44kUWf6p8Gp0-ANO1qoBbokcj00Wn-so5UsPI2_CRtlHi7xRjr5GxSY4",
+                    "width": "276",
+                    "height": "183"
+                }
+            },
+            "breadcrumbUrl": {
+                "host": "meet.bnext.com.tw",
+                "crumbs": [
+                    "articles",
+                    "view"
+                ]
+            }
+        },
+        {
+            "cacheUrl": "http://www.google.com/search?q=cache:YLMtqWxso54J:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/36109&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAAQAg&usg=AOvVaw1N-uE22OQB7PncgYYiWctM",
+            "content": "2015年8月2日 <b>...</b> 2014年2月，他成立北京彩徹區明科技，旗下產品是一款能夠精確預測當下<b>天氣</b>狀況的彩雲<b>天氣</b>App，透過與政府氣象數據串接，用衛星地圖尋找雷達進行圖像分析，&nbsp;...",
+            "contentNoFormatting": "2015年8月2日 ... 2014年2月，他成立北京彩徹區明科技，旗下產品是一款能夠精確預測當下天氣狀況的彩雲天氣App，透過與政府氣象數據串接，用衛星地圖尋找雷達進行圖像分析， ...",
+            "title": "離開阿里巴巴創業去，中國氣象局搶著談合作｜Meet創業小聚",
+            "titleNoFormatting": "離開阿里巴巴創業去，中國氣象局搶著談合作｜Meet創業小聚",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/36109",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/36109",
+            "url": "https://meet.bnext.com.tw/articles/view/36109",
+            "visibleUrl": "meet.bnext.com.tw",
+            "richSnippet": {
+                "cseImage": {
+                    "src": "https://image-cdn.learnin.tw/bnextmedia/image/album/2017-08/img-1502421362-66026.jpg?w=900&amp;output=webp"
+                },
+                "metatags": {
+                    "myViewId": "36109",
+                    "myPageType": "view",
+                    "ogTitle": "離開阿里巴巴創業去，中國氣象局搶著談合作｜Meet創業小聚",
+                    "myIsLogin": "0",
+                    "ogType": "website",
+                    "myHid": "0",
+                    "myPublishDate": "2015-08-02T09:00:00+08:00",
+                    "myAuthor": "['曾靉（北京報導）']",
+                    "formatDetection": "telephone=no",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
+                    "myIsAds": "0",
+                    "myPageFormat": "article",
+                    "articlePublishedTime": "2015-08-02T09:00:00+08:00",
+                    "myMemberOnly": "0",
+                    "dableAuthor": "曾靉（北京報導）",
+                    "ogDescription": "「**在大公司工作很好，但我一直在想，那我的夢想怎麼辦？**」來自中國四川的袁行遠說。今年27歲的他，過去任職於中國電商巨頭阿里巴巴，但就在2013年",
+                    "ogImage": "https://3.bp.blogspot.com/-hH7Lmh3i8WY/VbtQRgZIH6I/AAAAAAAAAnw/mjvGHSkGI1c/s1280/DSCN2703.JPG",
+                    "ogLocale": "zh_TW",
+                    "myCategory": "手機應用程式",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "WviP6ic4kI3YfBlkQMtuzrJ5yj6lR9zfPwiRslVd",
+                    "myMemberHid": "0",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "myTags": "阿里巴巴,淘寶網,北京",
+                    "dableItemId": "36109",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/36109",
+                    "myUid": "36109",
+                    "appleMobileWebAppStatusBarStyle": "black-translucent",
+                    "appleMobileWebAppCapable": "yes",
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
+                },
+                "cseThumbnail": {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLN5irCezfjMAAFLztTvb25hM8ZZecBojGrwYBg9xY-tViPNYtEZUlBxA",
+                    "width": "275",
+                    "height": "183"
+                }
+            },
+            "breadcrumbUrl": {
+                "host": "meet.bnext.com.tw",
+                "crumbs": [
+                    "articles",
+                    "view"
+                ]
+            }
+        },
+        {
+            "cacheUrl": "http://www.google.com/search?q=cache:TAXpM9ny6ssJ:meet.bnext.com.tw",
+            "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=011856925919198164995:zrqfhvriqea&q=https://meet.bnext.com.tw/articles/view/29248&sa=U&ved=2ahUKEwjC34KYn6SCAxUaqFYBHdjIAf4QFnoECAIQAg&usg=AOvVaw24PeVInEM9Tm_lz72t4ay8",
+            "content": "2013年9月10日 <b>...</b> ... <b>天氣</b>、基金淨值、各國匯率等等。 這是一項Excel內建的外部資料匯入功能，可選擇匯入資料庫、文字檔、XML等等，其中也支援了Web匯入資料的選項，也就是&nbsp;...",
+            "contentNoFormatting": "2013年9月10日 ... ... 天氣、基金淨值、各國匯率等等。 這是一項Excel內建的外部資料匯入功能，可選擇匯入資料庫、文字檔、XML等等，其中也支援了Web匯入資料的選項，也就是 ...",
+            "title": "連結Excel與Web資料，自動同步匯率、氣象資訊！｜Meet創業小聚",
+            "titleNoFormatting": "連結Excel與Web資料，自動同步匯率、氣象資訊！｜Meet創業小聚",
+            "formattedUrl": "https://meet.bnext.com.tw/articles/view/29248",
+            "unescapedUrl": "https://meet.bnext.com.tw/articles/view/29248",
+            "url": "https://meet.bnext.com.tw/articles/view/29248",
+            "visibleUrl": "meet.bnext.com.tw",
+            "richSnippet": {
+                "cseImage": {
+                    "src": "http://4.bp.blogspot.com/-iH7qTgB0wnk/U7aWqDDmCBI/AAAAAAAACFA/p9v7_gVB-q8/s1024/shutterstock_113512525.jpg"
+                },
+                "metatags": {
+                    "myViewId": "29248",
+                    "myPageType": "view",
+                    "ogTitle": "連結Excel與Web資料，自動同步匯率、氣象資訊！｜Meet創業小聚",
+                    "myIsLogin": "0",
+                    "ogType": "website",
+                    "myHid": "0",
+                    "myPublishDate": "2013-09-10T06:30:00+08:00",
+                    "myAuthor": "['T客邦']",
+                    "formatDetection": "telephone=no",
+                    "appleMobileWebAppTitle": "Meet創業小聚",
+                    "appleItunesApp": "app-id=1498785087",
+                    "myIsAds": "0",
+                    "myPageFormat": "article",
+                    "articlePublishedTime": "2013-09-10T06:30:00+08:00",
+                    "myMemberOnly": "0",
+                    "dableAuthor": "T客邦",
+                    "ogDescription": "在Excel上製作的表格，除了標準的格式、樞紐分析表外，還可以透過匯入其他檔案的方式，讓表格的應用更加多元，當中，又可以製作由網路資訊所完成的即時資",
+                    "ogImage": "http://4.bp.blogspot.com/-iH7qTgB0wnk/U7aWqDDmCBI/AAAAAAAACFA/p9v7_gVB-q8/s1024/shutterstock_113512525.jpg",
+                    "ogLocale": "zh_TW",
+                    "articlePublisher": "https://www.facebook.com/MeetStartup",
+                    "csrfToken": "oMBR6mQi9L2MMkX4AzVL4N0QGetvG6xlJd8Dgzms",
+                    "myMemberHid": "0",
+                    "viewport": "width=device-width,initial-scale=1",
+                    "dableItemId": "29248",
+                    "ogUrl": "https://meet.bnext.com.tw/articles/view/29248",
+                    "myUid": "29248",
+                    "appleMobileWebAppStatusBarStyle": "black-translucent",
+                    "appleMobileWebAppCapable": "yes",
+                    "articleAuthor": "https://www.facebook.com/MeetStartup"
+                },
+                "cseThumbnail": {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kSfBES9wBWYV0ZODjqtp1ER38ZSwBWlsMNI86cKUfs9e7LhJ9h-AxD-W",
+                    "width": "275",
+                    "height": "183"
                 }
             },
             "breadcrumbUrl": {
@@ -660,6 +665,6 @@
         }
     ],
     "findMoreOnGoogle": {
-        "url": "https://www.google.com/search?client=ms-google-coop&q=%E4%BC%81%E7%AE%A1&cx=011856925919198164995:zrqfhvriqea"
+        "url": "https://www.google.com/search?client=ms-google-coop&q=%E5%A4%A9%E6%B0%A3&cx=011856925919198164995:zrqfhvriqea"
     }
 }
