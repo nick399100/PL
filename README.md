@@ -11,5 +11,7 @@
 ###  [作業一](https://github.com/nick399100/PL/blob/main/Homework1/HW1.ipynb)  
 ###  [作業二](https://github.com/nick399100/PL/blob/main/Homework2/HW2.ipynb)
 ###  [作業三](https://github.com/nick399100/PL/tree/main/Homework3)
+###  [作業四](https://github.com/nick399100/PL/blob/main/Homework4/homework4.ipynb)
+###  [作業五](https://github.com/nick399100/PL/blob/main/Homework5/homework5.ipynb)
 ###  *專題連結區
 
