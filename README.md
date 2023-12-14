@@ -12,7 +12,7 @@
 ###  [作業二](https://github.com/nick399100/PL/blob/main/Homework2/HW2.ipynb)
 ###  [作業三](https://github.com/nick399100/PL/tree/main/Homework3)
 ###  [作業四](https://github.com/nick399100/PL/blob/main/Homework4/homework4.ipynb)   [Medium](https://medium.com/@nick399100/程式語言-文字雲-632394f3c7c6)
-###  [作業五](https://github.com/nick399100/PL/blob/main/Homework5/homework5.ipynb) [分析圖片](https://github.com/nick399100/PL/blob/main/Homework5/LDA%E5%88%86%E6%9E%90%E5%9C%96%E7%89%87.png)
+###  [作業五](https://github.com/nick399100/PL/blob/main/Homework5/homework5.ipynb) [分析圖片](https://github.com/nick399100/PL/blob/main/Homework5/LDA%E5%88%86%E6%9E%90%E5%9C%96%E7%89%87.png)  [Medium](https://medium.com/@nick399100/程式語言-lda-latent-dirichlet-allocation-主題模型-54d26804720a)
 
 ###  *專題連結區
 
